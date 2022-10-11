@@ -20,7 +20,7 @@ public class Porsche implements Autok {
     }
     @Override
     public String toString() {
-        return String.format(this.getSebesseg() + "km/h");
+        return String.format(this.getSebesseg() + "km/h ");
     }
 
 }
